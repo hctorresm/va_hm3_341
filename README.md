@@ -1,4 +1,4 @@
-# Rpositorio
+# Repositorio
 va_hm3_341
 
 # Descripción del proyecto
@@ -12,7 +12,13 @@ El presente proyecto busca estudiar cómo ha variado las toneladas y el valor en
 # Link página del proyecto
 https://hctorresm.github.io/va_hm3_341/
 
+https://www.youtube.com/watch?v=VEnPtvYNaKo&feature=youtu.be
+
+https://docs.google.com/presentation/d/e/2PACX-1vRWDDEDuj5k7CGaEP9zKD6F8yUvLnFUhbWmbJ5CUpA6LqwrCk0btmU8al2PJbIkDyEjal43Ox9VatnU/pub?start=false&loop=false&delayms=3000
+
 # Autor
+Harry Cristhian Torres Moreno
+
 https://twitter.com/HarryCTorres
 
 https://www.linkedin.com/in/harry-cristhian-torres-moreno-5bb53370/
