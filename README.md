@@ -9,8 +9,11 @@ El presente proyecto busca estudiar cómo ha variado las toneladas y el valor en
 2. Javascript d3 v4.0
 3. Vegalite
 
+
 # Link página del proyecto
 https://hctorresm.github.io/va_hm3_341/
+
+##Recomendable abrir con google chrome
 
 https://www.youtube.com/watch?v=VEnPtvYNaKo&feature=youtu.be
 
